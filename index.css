@@ -6,11 +6,13 @@
 *::before,*::after {
     box-sizing: border-box;
 }
+body{
+    background-color: #F2F2F2;
+}
 .main-container{
     display: flex;
     height: auto;
     width: 100%;
-
 }
 
 /* NAVBAR INFO */
